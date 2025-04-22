@@ -15,6 +15,6 @@ Ainda em **fase de prototipagem visual**, com foco inicial em organização e us
 ## 🧰 Tecnologias Utilizadas
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
